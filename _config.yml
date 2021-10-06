@@ -1,5 +1,5 @@
 title: "TSM-Net"
-tagline: "Generative Adversarial Networks for Conditional Waveform Synthesis."
+tagline: "Temporal Compressing Autoencoder with Adversarial Losses for Time-Scale Modification on Audio Signals."
 baseurl: "/melgan"
 arxiv: "TODO"
 repo:  "https://github.com/melgan-neurips/melgan-neurips.github.io"
