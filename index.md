@@ -72,7 +72,7 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 
-Reconstructed
+256
 <audio controls>
   <source src="assets/inversion/reconstructed/0.wav" type="audio/wav">
 Your browser does not support the audio element.
@@ -198,7 +198,7 @@ Your browser does not support the audio element.
 <a name="unconditional-music"></a>
 ## Unconditional Music Synthesis
 
-Original
+512
 <audio controls>
   <source src="assets/vqgan/original/original_0.wav" type="audio/wav">
 Your browser does not support the audio element.
@@ -219,7 +219,7 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 
-Reconstructed
+1024
 <audio controls>
   <source src="assets/vqgan/reconstructed/generated_0.wav" type="audio/wav">
 Your browser does not support the audio element.
