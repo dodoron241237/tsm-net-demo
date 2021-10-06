@@ -2,7 +2,7 @@ title: "TSM-Net"
 tagline: "Temporal Compressing Autoencoder with Adversarial Losses for Time-Scale Modification on Audio Signals."
 baseurl: "/melgan"
 arxiv: "TODO"
-repo:  "https://github.com/melgan-neurips/melgan-neurips.github.io"
+repo:  "https://github.com/dodoron241237/tsm-net-paper/tsm-net.github.io"
 author:
   name:
   url:
