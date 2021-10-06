@@ -31,8 +31,7 @@ We proposed a novel approach in the field of time-scale modification on the audi
 
 <a name="spectrogram-inversion"></a>
 ## Spectrogram Inversion on Unseen Speakers
-<font family = "微軟正黑體" color = "#dd0000"> Original: </font><br />
-<p>&#128511;</p>
+<font family = "微軟正黑體" color = "#dd0000"> Original: </font><br /><p>&#128511;</p>
 <audio controls>
   <source src="assets/inversion/original/0.wav" type="audio/wav">
 Your browser does not support the audio element.
