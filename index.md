@@ -38,7 +38,7 @@ Your browser does not support the audio element.
 </audio>
 
 <audio controls>
-  <source src="assets/inversion/original/1.wav" type="audio/wav">
+  <source src="assets/FMA/1024/reconstruct0.5x.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
