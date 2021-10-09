@@ -33,37 +33,37 @@ We proposed a novel approach in the field of time-scale modification on the audi
 ## Spectrogram Inversion on Unseen Speakers
 <font family = "微軟正黑體" color = "#dd0000"> Original&#128511;: </font><br />
 <audio controls>
-  <source src="assets/inversion/original/0.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
-<audio controls>
   <source src="assets/FMA/1024/reconstruct0.5x.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
 <audio controls>
-  <source src="assets/inversion/original/2.wav" type="audio/wav">
+  <source src="assets/FMA/1024/reconstruct0.75x.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
 <audio controls>
-  <source src="assets/inversion/original/3.wav" type="audio/wav">
+  <source src="assets/FMA/1024/reconstruct1.0x.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
 <audio controls>
-  <source src="assets/inversion/original/4.wav" type="audio/wav">
+  <source src="assets/FMA/1024/reconstruct1.25x (1).wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
 <audio controls>
-  <source src="assets/inversion/original/5.wav" type="audio/wav">
+  <source src="assets/FMA/1024/reconstruct1.5x.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
 <audio controls>
-  <source src="assets/inversion/original/6.wav" type="audio/wav">
+  <source src="assets/FMA/1024/reconstruct1.75x.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+<audio controls>
+  <source src="assets/FMA/1024/reconstruct2.0x.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
