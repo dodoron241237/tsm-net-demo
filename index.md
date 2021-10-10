@@ -166,37 +166,48 @@ We proposed a novel approach in the field of time-scale modification on the audi
 <tr>
 <th> 256 </th>
 <td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/original/2.wav" type="audio/wav">
+ <audio controls style="width: 170px;">
+   <source src="assets/FMA/256/reconstruct0.5x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/fb_beethoven_accompanied_violin_decoder/2.wav" type="audio/wav">
-   Your browser does not support the audio element.
- </audio>
-</td>
-
-<td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/our_beethoven_accompanied_violin_decoder/2.wav" type="audio/wav">
+ <audio controls style="width: 170px;">
+   <source src="assets/FMA/256/reconstruct0.75x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 
 <td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/fb_beethoven_solo_piano_decoder/2.wav" type="audio/wav">
+ <audio controls style="width: 170px;">
+   <source src="assets/FMA/256/reconstruct1.0x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/our_beethoven_solo_piano_decoder/2.wav" type="audio/wav">
+ <audio controls style="width: 170px;">
+   <source src="assets/FMA/256/reconstruct1.25x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/FMA/256/reconstruct1.5x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/FMA/256/reconstruct1.75x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/FMA/256/reconstruct2.0x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
