@@ -37,7 +37,7 @@ We proposed a novel approach in the field of time-scale modification on the audi
 Your browser does not support the audio element.
 </audio>
 
-<audio controls style="width: 120px;">
+<audio controls>
   <source src="assets/FMA/1024/reconstruct0.75x.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
