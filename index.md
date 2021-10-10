@@ -66,7 +66,7 @@ We proposed a novel approach in the field of time-scale modification on the audi
 
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/assets/FMA/1024/reconstruct0.75x.wav" type="audio/wav">
+   <source src="assets/FMA/1024/reconstruct0.75x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
