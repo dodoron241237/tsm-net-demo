@@ -58,15 +58,17 @@ Your browser does not support the audio element.
 </tr>
 <tr>
  <th/>
- <th>Original</th>
- <th>librosa</th>
- <th>Ours</th>
- <th>librosa</th>
- <th>Ours</th>
+ <th>0.5x</th>
+ <th>0.75</th>
+ <th>1.0x</th>
+ <th>1.25x</th>
+ <th>1.5x</th>
+ <th>1.75x</th>
+ <th>2.0x</th>
 </tr>
 
 <tr>
-<th> 1 </th>
+<th> 1024 </th>
 <td>
  <audio controls style="width: 120px;">
    <source src="assets/FMA/1024/reconstruct0.5x.wav" type="audio/wav">
@@ -105,7 +107,7 @@ Your browser does not support the audio element.
 </tr>
 
 <tr>
-<th> 2 </th>
+<th> 512 </th>
 <td>
  <audio controls style="width: 120px;">
    <source src="assets/music_translation/source_bach_solo_cello/original/1.wav" type="audio/wav">
@@ -144,7 +146,7 @@ Your browser does not support the audio element.
 </tr>
 
 <tr>
-<th> 3 </th>
+<th> 256 </th>
 <td>
  <audio controls style="width: 120px;">
    <source src="assets/music_translation/source_bach_solo_cello/original/2.wav" type="audio/wav">
