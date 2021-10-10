@@ -26,9 +26,11 @@ We proposed a novel approach in the field of time-scale modification on the audi
 
 <a name="results"></a>
 # Results
+
 <!--<font family = "微軟正黑體" color = "#dd0000"> Original&#128511;: </font><br />-->
-<tr><tr/>
-<a name="FMA"></a>
+
+<a name="FMA"></a> 
+
 ## FMA
 <table>
 <col width="50">
