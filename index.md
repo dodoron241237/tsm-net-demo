@@ -69,21 +69,21 @@ Your browser does not support the audio element.
 <th> 1 </th>
 <td>
  <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/original/0.wav" type="audio/wav">
+   <source src="assets/FMA/1024/reconstruct0.5x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
  <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/fb_beethoven_accompanied_violin_decoder/0.wav" type="audio/wav">
+   <source src="assets/assets/FMA/1024/reconstruct0.75x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
  <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/our_beethoven_accompanied_violin_decoder/0.wav" type="audio/wav">
+   <source src="assets/FMA/1024/reconstruct1.0x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
@@ -91,14 +91,14 @@ Your browser does not support the audio element.
 
 <td>
  <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/fb_beethoven_solo_piano_decoder/0.wav" type="audio/wav">
+   <source src="assets/FMA/1024/reconstruct1.25x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
  <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/our_beethoven_solo_piano_decoder/0.wav" type="audio/wav">
+   <source src="assets/FMA/1024/reconstruct1.5x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
