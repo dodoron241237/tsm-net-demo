@@ -110,13 +110,6 @@ We proposed a novel approach in the field of time-scale modification on the audi
 <th> 512 </th>
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/512/reconstruct2.0x.wav" type="audio/wav">
-   Your browser does not support the audio element.
- </audio>
-</td>
-
-<td>
- <audio controls style="width: 170px;">
    <source src="assets/FMA/512/reconstruct0.5x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
