@@ -50,6 +50,7 @@ Your browser does not support the audio element.
 <col width="50">
 <col width="50">
 <col width="50">
+<col width="50">
 <tr>
 <th/>
 <th/>
