@@ -18,7 +18,7 @@ title: {{ site.name }}
 ---
 
 <a name="abstract"></a>
-# Abstract
+## Abstract
 We proposed a novel approach in the field of time-scale modification on the audio signals. While traditional methods use framing technique and spectral approaches use shorttime Fourier transform to get high-level units, TSM-Net, our neural-network model encodes the raw audio into a high-level latent representation called neuralgram. Since the resulting neuralgram is a two-dimensional image with real values, we apply some existing image resizing techniques on the neuralgram and decode it using our neural decoder to obtain the time-scaled audio. Our method yields little artifacts and opens a new possibility in the research of modern time-scale modification.
 
 <!-- <a name="model"></a>
@@ -29,7 +29,7 @@ We proposed a novel approach in the field of time-scale modification on the audi
 <!--<font family = "微軟正黑體" color = "#dd0000"> Original&#128511;: </font><br />-->
 
 <a name="FMA"></a>
-## FMA
+# FMA
 <table>
 <col width="50">
 <col width="50">
@@ -206,7 +206,7 @@ We proposed a novel approach in the field of time-scale modification on the audi
 </table>
 
 <a name="musicnet"></a>
-## MUSICNET
+# MUSICNET
 <table>
 <col width="50">
 <col width="50">
@@ -383,7 +383,7 @@ We proposed a novel approach in the field of time-scale modification on the audi
 </table>
 
 <a name="VCTK"></a>
-## VCTK
+# VCTK
 <table>
 <col width="50">
 <col width="50">
@@ -560,7 +560,7 @@ We proposed a novel approach in the field of time-scale modification on the audi
 </table>
 
 <a name="YANG"></a>
-## YANG
+# YANG
 <table>
 <col width="50">
 <col width="50">
