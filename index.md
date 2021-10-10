@@ -30,8 +30,6 @@ We proposed a novel approach in the field of time-scale modification on the audi
 <a name="results"></a>
 # Results
 
-<a name="spectrogram-inversion"></a>
-## Spectrogram Inversion on Unseen Speakers
 <font family = "微軟正黑體" color = "#dd0000"> Original&#128511;: </font><br />
 
 <a name="FMA"></a>
@@ -111,37 +109,55 @@ We proposed a novel approach in the field of time-scale modification on the audi
 <tr>
 <th> 512 </th>
 <td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/original/1.wav" type="audio/wav">
+ <audio controls style="width: 170px;">
+   <source src="assets/FMA/512/reconstruct2.0x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/fb_beethoven_accompanied_violin_decoder/1.wav" type="audio/wav">
+ <audio controls style="width: 170px;">
+   <source src="assets/FMA/512/reconstruct0.5x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/our_beethoven_accompanied_violin_decoder/1.wav" type="audio/wav">
+ <audio controls style="width: 170px;">
+   <source src="assets/FMA/512/reconstruct0.75x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 
 <td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/fb_beethoven_solo_piano_decoder/1.wav" type="audio/wav">
+ <audio controls style="width: 170px;">
+   <source src="assets/FMA/512/reconstruct1.0x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
- <audio controls style="width: 120px;">
-   <source src="assets/music_translation/source_bach_solo_cello/our_beethoven_solo_piano_decoder/1.wav" type="audio/wav">
+ <audio controls style="width: 170px;">
+   <source src="assets/FMA/512/reconstruct1.25x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/FMA/512/reconstruct1.5x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/FMA/512/reconstruct1.75x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/FMA/512/reconstruct2.0x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
