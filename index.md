@@ -386,8 +386,8 @@ We proposed a novel approach in the field of time-scale modification on the audi
 
 </table>
 
-<a name="FMA"></a>
-## FMA
+<a name="VCTK"></a>
+## VCTK
 <table>
 <col width="50">
 <col width="50">
@@ -411,21 +411,21 @@ We proposed a novel approach in the field of time-scale modification on the audi
 <th> 1024 </th>
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/1024/reconstruct0.5x.wav" type="audio/wav">
+   <source src="assets/VCTK/1024/reconstruct0.5x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/1024/reconstruct0.75x.wav" type="audio/wav">
+   <source src="assets/VCTK/1024/reconstruct0.75x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/1024/reconstruct1.0x.wav" type="audio/wav">
+   <source src="assets/VCTK/1024/reconstruct1.0x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
@@ -433,28 +433,28 @@ We proposed a novel approach in the field of time-scale modification on the audi
 
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/1024/reconstruct1.25x (1).wav" type="audio/wav">
+   <source src="assets/VCTK/1024/reconstruct1.25x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/1024/reconstruct1.5x.wav" type="audio/wav">
+   <source src="assets/VCTK/1024/reconstruct1.5x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/1024/reconstruct1.75x.wav" type="audio/wav">
+   <source src="assets/VCTK/1024/reconstruct1.75x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/1024/reconstruct2.0x.wav" type="audio/wav">
+   <source src="assets/VCTK/1024/reconstruct2.0x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
@@ -464,14 +464,14 @@ We proposed a novel approach in the field of time-scale modification on the audi
 <th> 512 </th>
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/512/512reconstruct0.5x.wav" type="audio/wav">
+   <source src="assets/VCTK/512/512reconstruct0.5x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/512/512reconstruct0.75x.wav" type="audio/wav">
+   <source src="assets/VCTk/512/512reconstruct0.75x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
@@ -479,32 +479,32 @@ We proposed a novel approach in the field of time-scale modification on the audi
 
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/512/512reconstruct1.0x.wav" type="audio/wav">
+   <source src="assets/VCTK/512/512reconstruct1.0x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/512/512reconstruct1.25x.wav" type="audio/wav">
+   <source src="assets/VCTK/512/512reconstruct1.25x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/512/512reconstruct1.5x.wav" type="audio/wav">
+   <source src="assets/VCTK/512/512reconstruct1.5x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/512/512reconstruct1.75x.wav" type="audio/wav">
+   <source src="assets/VCTK/512/512reconstruct1.75x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/512/512reconstruct2.0x.wav" type="audio/wav">
+   <source src="assets/VCTK/512/512reconstruct2.0x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
@@ -514,14 +514,14 @@ We proposed a novel approach in the field of time-scale modification on the audi
 <th> 256 </th>
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/256/256reconstruct0.5x.wav" type="audio/wav">
+   <source src="assets/VCTK/256/256reconstruct0.5x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/256/256reconstruct0.75x.wav" type="audio/wav">
+   <source src="assets/VCTK/256/256reconstruct0.75x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
@@ -529,32 +529,32 @@ We proposed a novel approach in the field of time-scale modification on the audi
 
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/256/256reconstruct1.0x.wav" type="audio/wav">
+   <source src="assets/VCTK/256/256reconstruct1.0x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/256/256reconstruct1.25x.wav" type="audio/wav">
+   <source src="assets/VCTK/256/256reconstruct1.25x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/256/256reconstruct1.5x.wav" type="audio/wav">
+   <source src="assets/VCTK/256/256reconstruct1.5x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/256/256reconstruct1.75x.wav" type="audio/wav">
+   <source src="assets/VCTK/256/256reconstruct1.75x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/256/256reconstruct2.0x.wav" type="audio/wav">
+   <source src="assets/VCTK/256/256reconstruct2.0x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
@@ -563,8 +563,8 @@ We proposed a novel approach in the field of time-scale modification on the audi
 
 </table>
 
-<a name="FMA"></a>
-## FMA
+<a name="YANG"></a>
+## YANG
 <table>
 <col width="50">
 <col width="50">
@@ -588,21 +588,21 @@ We proposed a novel approach in the field of time-scale modification on the audi
 <th> 1024 </th>
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/1024/reconstruct0.5x.wav" type="audio/wav">
+   <source src="assets/yang/1024/reconstruct0.5x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/1024/reconstruct0.75x.wav" type="audio/wav">
+   <source src="assets/yang/1024/reconstruct0.75x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/1024/reconstruct1.0x.wav" type="audio/wav">
+   <source src="assets/yang/1024/reconstruct1.0x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
@@ -610,28 +610,28 @@ We proposed a novel approach in the field of time-scale modification on the audi
 
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/1024/reconstruct1.25x (1).wav" type="audio/wav">
+   <source src="assets/yang/1024/reconstruct1.25x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/1024/reconstruct1.5x.wav" type="audio/wav">
+   <source src="assets/yang/1024/reconstruct1.5x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/1024/reconstruct1.75x.wav" type="audio/wav">
+   <source src="assets/yang/1024/reconstruct1.75x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/1024/reconstruct2.0x.wav" type="audio/wav">
+   <source src="assets/yang/1024/reconstruct2.0x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
@@ -641,14 +641,14 @@ We proposed a novel approach in the field of time-scale modification on the audi
 <th> 512 </th>
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/512/512reconstruct0.5x.wav" type="audio/wav">
+   <source src="assets/yang/512/512reconstruct0.5x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/512/512reconstruct0.75x.wav" type="audio/wav">
+   <source src="assets/yang/512/512reconstruct0.75x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
@@ -656,32 +656,32 @@ We proposed a novel approach in the field of time-scale modification on the audi
 
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/512/512reconstruct1.0x.wav" type="audio/wav">
+   <source src="assets/yang/512/512reconstruct1.0x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/512/512reconstruct1.25x.wav" type="audio/wav">
+   <source src="assets/yang/512/512reconstruct1.25x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/512/512reconstruct1.5x.wav" type="audio/wav">
+   <source src="assets/yang/512/512reconstruct1.5x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/512/512reconstruct1.75x.wav" type="audio/wav">
+   <source src="assets/yang/512/512reconstruct1.75x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/512/512reconstruct2.0x.wav" type="audio/wav">
+   <source src="assets/yang/512/512reconstruct2.0x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
@@ -691,14 +691,14 @@ We proposed a novel approach in the field of time-scale modification on the audi
 <th> 256 </th>
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/256/256reconstruct0.5x.wav" type="audio/wav">
+   <source src="assets/yang/256/256reconstruct0.5x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/256/256reconstruct0.75x.wav" type="audio/wav">
+   <source src="assets/yang/256/256reconstruct0.75x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
@@ -706,32 +706,32 @@ We proposed a novel approach in the field of time-scale modification on the audi
 
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/256/256reconstruct1.0x.wav" type="audio/wav">
+   <source src="assets/yang/256/256reconstruct1.0x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/256/256reconstruct1.25x.wav" type="audio/wav">
+   <source src="assets/yang/256/256reconstruct1.25x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/256/256reconstruct1.5x.wav" type="audio/wav">
+   <source src="assets/yang/256/256reconstruct1.5x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/256/256reconstruct1.75x.wav" type="audio/wav">
+   <source src="assets/yang/256/256reconstruct1.75x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/256/256reconstruct2.0x.wav" type="audio/wav">
+   <source src="assets/yang/256/256reconstruct2.0x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
