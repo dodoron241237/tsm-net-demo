@@ -32,15 +32,8 @@ We proposed a novel approach in the field of time-scale modification on the audi
 <a name="spectrogram-inversion"></a>
 ## Spectrogram Inversion on Unseen Speakers
 <font family = "微軟正黑體" color = "#dd0000"> Original&#128511;: </font><br />
-<audio controls>
-  <source src="assets/FMA/1024/reconstruct0.5x.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
 
-<audio controls>
-  <source src="assets/FMA/1024/reconstruct0.75x.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
+
 
 
 <table>
@@ -54,8 +47,7 @@ Your browser does not support the audio element.
 <tr>
 <th/>
 <th/>
-<th colspan="2">Beethoven accompanied violin</th>
-<th colspan="2">Beethoven solo piano</th>
+<th>FMA</th>
 </tr>
 <tr>
  <th/>
