@@ -10,13 +10,10 @@ title: {{ site.name }}
 * [Abstract](#abstract)
 <!-- * [Model Description](#model) -->
 * [Results](#results)
-  * [Spectrogram Inversion on Unseen speakers](#spectrogram-inversion)
-  * [TTS examples](#tts-examples)
-  * [Unconditional Music Synthesis](#unconditional-music)
-  * [Music Translation](#music-translation)
-  * [Samples along Training](#samples-along-training)
-  * [Ablation](#ablation)
   * [FMA](#FMA)
+  * [MUSICNET](#MUSICNET)
+  * [VCTK](#VCTK)
+  * [YANG](#YANG)
 
 ---
 
