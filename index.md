@@ -104,6 +104,20 @@ Your browser does not support the audio element.
    Your browser does not support the audio element.
  </audio>
 </td>
+
+<td>
+ <audio controls style="width: 120px;">
+   <source src="assets/FMA/1024/reconstruct1.5x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+
+<td>
+ <audio controls style="width: 120px;">
+   <source src="assets/FMA/1024/reconstruct1.5x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
 </tr>
 
 <tr>
