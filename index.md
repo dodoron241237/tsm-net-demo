@@ -32,6 +32,7 @@ We proposed a novel approach in the field of time-scale modification on the audi
 <a name="spectrogram-inversion"></a>
 ## Spectrogram Inversion on Unseen Speakers
 <font family = "微軟正黑體" color = "#dd0000"> Original&#128511;: </font><br />
+## FMA
 <table>
 <col width="50">
 <col width="50">
@@ -40,11 +41,6 @@ We proposed a novel approach in the field of time-scale modification on the audi
 <col width="50">
 <col width="50">
 <col width="50">
-<tr>
-<th/>
-<th/>
-## FMA
-</tr>
 <tr>
  <th/>
  <th>0.5x</th>
