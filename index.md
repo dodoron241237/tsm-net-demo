@@ -1,9 +1,4 @@
-<body>
 
-<h1>我的 CSS web 页!</h1>
-<p>你好世界！这是来自 runoob 菜鸟教程的实例。</p>
-
-</body>
 ---
 
 layout: default
