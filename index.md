@@ -206,7 +206,5 @@ We proposed a novel approach in the field of time-scale modification on the audi
 </td>
 </tr>
 
-<tr>
-
 
 </table>
