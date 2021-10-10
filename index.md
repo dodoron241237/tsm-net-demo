@@ -71,21 +71,21 @@ Your browser does not support the audio element.
 <tr>
 <th> 1024 </th>
 <td>
- <audio controls style="width: 120px;">
+ <audio controls style="width: 200px;">
    <source src="assets/FMA/1024/reconstruct0.5x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
- <audio controls style="width: 120px;">
+ <audio controls style="width: 200px;">
    <source src="assets/assets/FMA/1024/reconstruct0.75x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
- <audio controls style="width: 120px;">
+ <audio controls style="width: 200px;">
    <source src="assets/FMA/1024/reconstruct1.0x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
@@ -93,28 +93,28 @@ Your browser does not support the audio element.
 
 
 <td>
- <audio controls style="width: 120px;">
+ <audio controls style="width: 200px;">
    <source src="assets/FMA/1024/reconstruct1.25x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
- <audio controls style="width: 120px;">
+ <audio controls style="width: 200px;">
    <source src="assets/FMA/1024/reconstruct1.5x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
- <audio controls style="width: 120px;">
+ <audio controls style="width: 200px;">
    <source src="assets/FMA/1024/reconstruct1.5x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
- <audio controls style="width: 120px;">
+ <audio controls style="width: 200px;">
    <source src="assets/FMA/1024/reconstruct1.5x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
