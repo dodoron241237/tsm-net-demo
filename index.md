@@ -469,7 +469,7 @@ title: {{ site.name }}
 
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/VCTk/512/512reconstruct0.75x.wav" type="audio/wav">
+   <source src="assets/VCTK/512/512reconstruct0.75x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
