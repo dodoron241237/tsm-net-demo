@@ -1,4 +1,7 @@
-
+body
+{
+	background-color:#b0c4de;
+}
 ---
 
 layout: default
@@ -6,10 +9,7 @@ title: {{ site.name }}
 ---
 
 ---
-body
-{
-	background-color:#b0c4de;
-}
+
 
 # Table of contents
 
