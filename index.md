@@ -86,7 +86,7 @@ We proposed a novel approach in the field of time-scale modification on the audi
 
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/1024/reconstruct1.25x.wav" type="audio/wav">
+   <source src="assets/FMA/1024/reconstruct1.25x (1).wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
@@ -100,14 +100,14 @@ We proposed a novel approach in the field of time-scale modification on the audi
 
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/1024/reconstruct1.5x.wav" type="audio/wav">
+   <source src="assets/FMA/1024/reconstruct1.75x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
 
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/1024/reconstruct1.5x.wav" type="audio/wav">
+   <source src="assets/FMA/1024/reconstruct2.0x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
