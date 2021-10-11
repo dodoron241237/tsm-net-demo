@@ -204,7 +204,7 @@ title: {{ site.name }}
 </td>
 </tr>
  
- <th> librosa </th>
+<th> librosa </th>
 <td>
  <audio controls style="width: 170px;">
    <source src="assets/FMA/librosa/fmareconstruct0.5x.wav" type="audio/wav">
@@ -247,7 +247,7 @@ title: {{ site.name }}
 </td>
 <td>
  <audio controls style="width: 170px;">
-   <source src="assets/FMA/librosa/fmareconstruct02.0x.wav" type="audio/wav">
+   <source src="assets/FMA/librosa/fmareconstruct2.0x.wav" type="audio/wav">
    Your browser does not support the audio element.
  </audio>
 </td>
@@ -430,6 +430,57 @@ title: {{ site.name }}
  </audio>
 </td>
 </tr>
+ 
+<th> librosa </th>
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/musicnet/librosa/musicnetreconstruct0.5x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/musicnet/librosa/musicnetreconstruct0.75x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+
+
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/musicnet/librosa/musicnetreconstruct1.0x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/musicnet/librosa/musicnetreconstruct1.25x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/musicnet/librosa/musicnetreconstruct1.5x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/musicnet/librosa/musicnetreconstruct1.75x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/musicnet/librosa/musicnetreconstruct2.0x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+</tr>
+
+
 
 
 </table>
@@ -609,6 +660,55 @@ title: {{ site.name }}
 </tr>
 
 
+<th> librosa </th>
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/VCTK/librosa/VCTKreconstruct0.5x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/VCTK/librosa/VCTKreconstruct0.75x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+
+
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/VCTK/librosa/VCTKreconstruct1.0x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/VCTK/librosa/VCTKreconstruct1.25x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/VCTK/librosa/VCTKreconstruct1.5x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/VCTK/librosa/VCTKreconstruct1.75x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/VCTK/librosa/VCTKreconstruct2.0x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+</tr> 
+
 </table>
 
 <a name="YANG"></a>
@@ -785,5 +885,54 @@ title: {{ site.name }}
 </td>
 </tr>
 
+<th> librosa </th>
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/yang/librosa/Yreconstruct0.5.x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/yang/librosa/Yreconstruct0.75x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+
+
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/yang/librosa/Yreconstruct1.0.x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/yang/librosa/Yreconstruct1.25x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/yang/librosa/Yreconstruct1.5x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/yang/librosa/Yreconstruct1.75.x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/yang/librosa/Yreconstruct2.0.x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+</tr> 
+ 
 
 </table>
