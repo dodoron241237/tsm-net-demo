@@ -251,7 +251,7 @@ title: {{ site.name }}
    Your browser does not support the audio element.
  </audio>
 </td>
-</tr>
+
 
 
 
@@ -478,7 +478,7 @@ title: {{ site.name }}
    Your browser does not support the audio element.
  </audio>
 </td>
-</tr>
+
 
 
 
@@ -707,7 +707,7 @@ title: {{ site.name }}
    Your browser does not support the audio element.
  </audio>
 </td>
-</tr> 
+
 
 </table>
 
@@ -932,7 +932,6 @@ title: {{ site.name }}
    Your browser does not support the audio element.
  </audio>
 </td>
-</tr> 
  
 
 </table>
