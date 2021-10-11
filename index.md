@@ -203,6 +203,56 @@ title: {{ site.name }}
  </audio>
 </td>
 </tr>
+ 
+ <th> librosa </th>
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/FMA/librosa/fmareconstruct0.5x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/FMA/librosa/fmareconstruct0.75x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+
+
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/FMA/librosa/fmareconstruct1.0x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/FMA/librosa/fmareconstruct1.25x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/FMA/librosa/fmareconstruct1.5x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/FMA/librosa/fmareconstruct1.75x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+<td>
+ <audio controls style="width: 170px;">
+   <source src="assets/FMA/librosa/fmareconstruct02.0x.wav" type="audio/wav">
+   Your browser does not support the audio element.
+ </audio>
+</td>
+</tr>
+
 
 
 </table>
